@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SupercalifragilisticexpialidociousPoppy
-- 📫 How to reach me ... you dont.
+yo, nothing to say. yet.
+
 
 <!---
 SupercalifragilisticexpialidociousPoppy/SupercalifragilisticexpialidociousPoppy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
